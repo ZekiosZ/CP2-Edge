@@ -72,6 +72,6 @@ Isso permite um monitoramento local direto, facilitando o controle ambiental da 
 - **Hyann dos Santos Espindas** – RM: 563421  
 - **José Rafael Tejeda Mantilla** – RM: 561849  
 - **Theodoro Sievers** – RM: 562036
-- **Leonardo Grosskopf - Rm: 562255 
+- **Leonardo Grosskopf** - Rm: 562255 
 
 ---
