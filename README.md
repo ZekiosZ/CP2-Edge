@@ -71,6 +71,7 @@ Isso permite um monitoramento local direto, facilitando o controle ambiental da 
 - **Arthur Serrano Veloso** – RM: 561542  
 - **Hyann dos Santos Espindas** – RM: 563421  
 - **José Rafael Tejeda Mantilla** – RM: 561849  
-- **Theodoro Sievers** – RM: 562036  
+- **Theodoro Sievers** – RM: 562036
+- **Leonardo Grosskopf - Rm: 562255 
 
 ---
